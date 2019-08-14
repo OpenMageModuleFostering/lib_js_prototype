@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Lib_Js_Prototype",
+    "type": "magento-module",
+    "license": "Mixed",
+    "homepage": "",
+    "description": "Prototype and Scriptaculous Javascript Libraries for Magento",
+    "authors": [
+    {
+        "name": "Magento Core Team",
+        "email": "core@magentocommerce.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
